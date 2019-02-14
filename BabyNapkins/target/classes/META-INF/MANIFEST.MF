@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: BabyNapkin
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rhalli
+Implementation-Vendor-Id: com.rashmi
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/BabyNapkin
+Created-By: Maven Integration for Eclipse
+

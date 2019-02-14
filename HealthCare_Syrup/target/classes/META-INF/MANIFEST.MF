@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: HealthCare_Syrup
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mkuma202
+Implementation-Vendor-Id: com.group6.healthcare.Syrups
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/HealthCare_Syrup
+Created-By: Maven Integration for Eclipse
+
